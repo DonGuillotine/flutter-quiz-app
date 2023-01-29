@@ -15,7 +15,7 @@
   </p>
 </p>
 
-# Contributing to Quiz App
+# Contributing to Quiz App.
 
 I welcome and appreciate contributions to this open-source project!
 
@@ -25,14 +25,14 @@ I welcome and appreciate contributions to this open-source project!
 3. Create a new branch for your changes
 
 ## Making Changes
-1. Add your changes
-2. Run tests (if applicable)
-3. Commit your changes with a clear and descriptive commit message
+1. Add your changes.
+2. Run tests (if applicable).
+3. Commit your changes with a clear and descriptive commit message.
 
 ## Submitting a Pull Request
-1. Push your changes to your fork on GitHub
-2. Open a Pull Request and include a clear and descriptive title and explanation of your changes
-3. I will review and merge your changes
+1. Push your changes to your fork on GitHub.
+2. Open a Pull Request and include a clear and descriptive title and explanation of your changes.
+3. I will review and merge your changes.
 
 ## Additional Resources
 - [Issue tracker](https://github.com/DonGuillotine/flutter-quiz-app/issues/new)
