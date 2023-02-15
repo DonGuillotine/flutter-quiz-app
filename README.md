@@ -9,8 +9,6 @@
   <p align="center">
     An interactive quiz app I built with Flutter. Exploring some advanced concepts in the dart Programming language
     <br>
-    Made with much  :heart:
-    <br>
     <br>
   </p>
 </p>
